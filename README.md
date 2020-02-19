@@ -2,6 +2,8 @@
 
 A MCQ (multi-choice question) and Quiz management application written in pure C# and .NET framework.
 
+[Video demo](https://youtu.be/RXHz_u-hkes)
+
 ![Demo-1](https://github.com/vuong-cuong-phoenix/Quiz-Master/blob/master/images/demo-1.png)
 
 ![Demo-2](https://github.com/vuong-cuong-phoenix/Quiz-Master/blob/master/images/demo-2.png)
