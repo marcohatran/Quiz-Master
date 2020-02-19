@@ -2,13 +2,13 @@
 
 A MCQ (multi-choice question) and Quiz management application written in pure C# and .NET framework.
 
-![Demo-1](https://github.com/vuong-cuong-phoenix/Quiz-Master/tree/master/images/demo-1.png)
+![Demo-1](https://github.com/vuong-cuong-phoenix/Quiz-Master/blob/master/images/demo-1.png)
 
-![Demo-2](https://github.com/vuong-cuong-phoenix/Quiz-Master/tree/master/images/demo-2.png)
+![Demo-2](https://github.com/vuong-cuong-phoenix/Quiz-Master/blob/master/images/demo-2.png)
 
-![Demo-3](https://github.com/vuong-cuong-phoenix/Quiz-Master/tree/master/images/demo-3.png)
+![Demo-3](https://github.com/vuong-cuong-phoenix/Quiz-Master/blob/master/images/demo-3.png)
 
-![Demo-4](https://github.com/vuong-cuong-phoenix/Quiz-Master/tree/master/images/demo-4.png)
+![Demo-4](https://github.com/vuong-cuong-phoenix/Quiz-Master/blob/master/images/demo-4.png)
 
 This is the product for Assignment (2018-2019) of Object-Oriented Programming course (CO2005).
 
